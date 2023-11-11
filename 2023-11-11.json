@@ -1,0 +1,26 @@
+{
+  "name": "Anthony Rice",
+  "age": 42,
+  "address": {
+    "street": "Fejse Pike",
+    "city": "Seteli",
+    "state": "RI",
+    "zip": "88356"
+  },
+  "contact": {
+    "phone": "(230) 834-8907",
+    "servicePhone": "800214123"
+  },
+  "birthday": "1969-11-23T04:26:03.408Z",
+  "ip": "134.27.121.107",
+  "foo": "bar",
+  "profile": {
+    "about": "Faruvo rozarwa puromesa ossovuf paho ugutu humiw gudniv fafeshor guzboh butackih men pile javur. Zecap go ow couku tiwzac we nantesu alma pogagno jomali pe obhu rod. Sehavdi zicuc cewohda mewojuto gaun ugbuive jahatgi vuwravkur nitmahug duhpo wov lad ceraci buci. Zosu op cepemipo pifuv rurmalsi fahokke jos gam bin mumferi mowarim mop sedlefeha roretrin wownab juv. Ezgem ivoziasi gusosu zilu nujik fumnusfo hegeg mioropa goovfa ezibighaw dikocovu jiab filsepfoh nemmar cutel mokil.",
+    "bio": "Beccodvol lugav sofogom du il kujezow fifcum gocobni juru mana fimtijzut suvsahe. Ijvic levwoilo et mocevfo mat cus guaro kavjupet fesihpu gawzilce rake suevka. Vo bad roshar nutaotu jirmafcoh na vug jub jubatuha wicul miwofu rasuge zase bucso. Gavoma gog fode mof so jaer dezaveip hib fuceb vewisbav uvofabuv hiteva. Udkud kobagulu adpeb vu in ca jawelgi nufru nawhaw sod ja damamsub avimieso."
+  },
+  "apiKey": "9b9662d542e055da899fd4e6ca098cf329129de67069a40f52d65ca3d52a7f68",
+  "currency": {
+    "code": "KMF",
+    "name": "Comoros Franc"
+  }
+}
