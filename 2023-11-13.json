@@ -1,0 +1,26 @@
+{
+  "name": "Carl Keller",
+  "age": 62,
+  "address": {
+    "street": "Fiko Manor",
+    "city": "Tilomopid",
+    "state": "VT",
+    "zip": "23438"
+  },
+  "contact": {
+    "phone": "(208) 795-8169",
+    "servicePhone": "800277334"
+  },
+  "birthday": "1969-01-05T16:07:28.040Z",
+  "ip": "173.255.170.144",
+  "foo": "bar",
+  "profile": {
+    "about": "Vafajmib cerpa vacu new egu bapih evipal epomid du raf ov sihuhbu eb nedletu. Za wo ecifdo hu meeg sudjecfet fokumru hosdev gobenric mer hog lo giferuh canho up ocpu. Dacbeve uduje zadgije pu jigtupred rimfudij calige teblizmo ses ceb wo uru wep zuesa. Gomu volizuw nemcevfi ota lodligzo basvut rimesu jeletabaz aw wosget pabosmaw iksuze pewve avmigte. Bohved ku tejnonuw no zaiwe isozu osru pagkidodi bukgaw mi kabzu atu debfokume lorfa toanoti uro. Zazsoul ja ikepe ev colzawel ruclun lubok vegzoblep mev cije hub titicmaj dupsop rotsajwa taz tatule acuvu kam.",
+    "bio": "Rejsi takuvraj ihgevbo pez haw pat uz hedvebzof tatriam gadfijhav lo robcu tectur jozew wecnoebe ro paovur. Zit ahku rooc otevojmoz tegkubeh gansitum naliufu emicojsat eceso hoico bohmat buhna didrovhed ahmo uju et pajpi pona. Havivojo gedmap va jam bu veowuliz hituada sipilme lagudi hog rugis ha fuvjeeh dubewo wuc sedemdez vasjob fulipa."
+  },
+  "apiKey": "b35c54f4a8e2b5da82b1fc378167a85e74197ad579a7bcd0cc4bc4416ba8bce8",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
