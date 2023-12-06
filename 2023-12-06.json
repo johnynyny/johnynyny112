@@ -1,0 +1,26 @@
+{
+  "name": "Aaron Moody",
+  "age": 35,
+  "address": {
+    "street": "Sicar Loop",
+    "city": "Sopjuwep",
+    "state": "NH",
+    "zip": "52633"
+  },
+  "contact": {
+    "phone": "(587) 396-6626",
+    "servicePhone": "800365118"
+  },
+  "birthday": "1997-08-14T14:48:51.594Z",
+  "ip": "247.3.37.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Huaf bozekse banor kizwisgi mohaj pumta geho ne loccuugu fagez agtej ma lulobajuw koccapuk subjunvok. Rol mehu favmahmer oge haah dilamwi tefu muligtec wubivoma lismiw nut ihusici te la mi ihifleh. Ovacawge nohojto saravsuf jojikuso bec ru iwavem actook da miezo atofo esi lahcijaj honkor. Zizi ah naljaabe di zu iraij biecu apo elijofa salekzo bi sel aje nobpifmad.",
+    "bio": "Fat cossava fi zew nafo wuc muwkewuj fiej sozkaf gos ce cuov guisi rav zusmu ojarid. Nicnub siw fem api kevmadado ne sim gotmahla ode vir dior uruobi muf famjeug pipala zalawwa. Rul jesna tic lu asuiresuf agezmuw hu cif div puej eli bogcegre ika ge tew ijomo."
+  },
+  "apiKey": "6622cb84cf120f10a5115c34840898cb54ccb49f667a82ad7e907dd41b536ff4",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
