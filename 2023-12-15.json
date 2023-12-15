@@ -1,0 +1,26 @@
+{
+  "name": "Antonio Hudson",
+  "age": 52,
+  "address": {
+    "street": "Jizo Circle",
+    "city": "Kukecjo",
+    "state": "AL",
+    "zip": "18920"
+  },
+  "contact": {
+    "phone": "(962) 714-6817",
+    "servicePhone": "800419956"
+  },
+  "birthday": "1966-10-19T21:57:20.413Z",
+  "ip": "91.45.174.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Zoc du tu gel kulhi wazaipi bogma vofuwu alaila vewseg ker civde rihzabsi lerlisor. Osumab koz gortogmir taku po rataat mowvasin ula si zi rib hu rod iwnama werir paficetu. Enul ezevul tuca itubeb jor ufo metuhimi kosvaris sizes hacu keohuvuj cuwafa favzetom revfu wesvovcec. Osaja nok lawuvpo kew gooj bemzeb ohu wulvagife jigipev va kilo dupa.",
+    "bio": "Igwat cipaki iwi pohji hozmej jaw mebemmu bofuja tononaz ciozla et roida. Jom rufozeh isi kinagne jospejlo begfonkis ti zen cibib mocuap hi kipag zov ol kubi cedmuh jom. Idiadepi hazojwa jadgojbe ugoad aftotof ronidemo apig bu reco gohim owewap gibajvu zuspo itmiros be gi leseen menavig."
+  },
+  "apiKey": "2ca310688ee5f0ccfd11c434da9b49d1f4c78dc3df4a29160cff13cc52083dd0",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
