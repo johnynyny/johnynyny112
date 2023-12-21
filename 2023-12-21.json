@@ -1,0 +1,26 @@
+{
+  "name": "Dominic Christensen",
+  "age": 57,
+  "address": {
+    "street": "Ehmol Pike",
+    "city": "Bedelhow",
+    "state": "DC",
+    "zip": "95954"
+  },
+  "contact": {
+    "phone": "(702) 962-9641",
+    "servicePhone": "800942419"
+  },
+  "birthday": "1997-05-02T16:49:29.012Z",
+  "ip": "139.230.184.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Nizkuwic da ah fur una gigzu cajo palgizco ze benukor hoed beroduaci gigaguve menuri webe. Divkoha joodi reav davot agotuke iz cam mozi pa mihad mighog neoz goz. Ah tefakar re nijuk gogobwo uljavjo keh zikaso zo ekzul pamad temvuoca pa kiv ihlogam.",
+    "bio": "Wuigzik dekhoraf jezrih cehraba avimtuk ufi nujnow mo gana bibge icukiim hutuvzov. Zizuvse forbuccaj cahowe luputoba adaima jakcieso gedesohe paikeca tactevaw elu lo fobalef ta. Adesato zez cidvob acesivu som tulibo winolbas vusel buh foozu sifurobe lezpari ehazih nonlijat nazna ameki mirudjij mirzewew."
+  },
+  "apiKey": "432919223ae1396730434893c386817437a9e5093a3f386c9da07676a09ff19c",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
