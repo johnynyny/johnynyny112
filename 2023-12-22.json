@@ -1,0 +1,26 @@
+{
+  "name": "Annie Wilkerson",
+  "age": 35,
+  "address": {
+    "street": "Nezvel Terrace",
+    "city": "Ziigala",
+    "state": "IN",
+    "zip": "11025"
+  },
+  "contact": {
+    "phone": "(371) 301-9726",
+    "servicePhone": "800116179"
+  },
+  "birthday": "1985-10-07T08:06:54.448Z",
+  "ip": "218.136.151.86",
+  "foo": "bar",
+  "profile": {
+    "about": "Geulu begfis so olehun ne va vuczido ificejzok uwnu sitoklov pofir remarte tonjig. Det naruzas adaceh tushet ze ruj sam de wap nejodah bicdikad ube giorjig re. Rodofo pa mauji tateh mozum hoku vefnige ga ba sito po osnegte ub igidabe ta.",
+    "bio": "Setgockeg paziric evebame gusehe se fa tujroso bekoh zohja ciozo icuhomaw regnabef zu kilges gebfeb. Nemno udjiga vebilu fifej mo cauke vaziw wim hatto biljansa gihhu no. Wode gafrojagi le zal ulkecobi be ko kahig ziv du judej vovace. Adacunefu ilosgi te ud gocso otfalav jozfa gukwo vur iteulaiz savupuk gathudwi. Cagaob senozhu dejuciz filtolez ja mi ic pikmoda buhedak ubomod pewadac iw vozne dagem vohi."
+  },
+  "apiKey": "3c01da9dd7679be2a4d5a35c39e8eeaaa84aa93485192b53522d08a41d096272",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
