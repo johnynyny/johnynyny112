@@ -1,0 +1,26 @@
+{
+  "name": "Mike Clark",
+  "age": 44,
+  "address": {
+    "street": "Kizte River",
+    "city": "Gemeal",
+    "state": "NY",
+    "zip": "12133"
+  },
+  "contact": {
+    "phone": "(581) 749-7136",
+    "servicePhone": "800451563"
+  },
+  "birthday": "1977-08-20T10:54:26.674Z",
+  "ip": "76.62.137.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Poddaz ju dajhepam sihgog sif aregep fo ociuve hinu bebmav kuh teuwaogi comimpi ho pahkad weifton. Giul dew keb olcuvah wujsa ba culiz pabvi fueh zapda kuosepu vi gogheovo mob. Zaorpi luuvhab iramuwu muhlaz evulhe dacla lamumofi hewapoja sadac tiam le jiwmez useirosiv joja nuizi gojar nopuf.",
+    "bio": "Nomi ju nebnorawa ha rijlo lapam ilisima les wubose pehalo hu nedtupno jeiho isge goskere ih izahipec hi. Nifdupgih gof muzivda cup gekwu sig ijahegod wuohuobo piew rirpeb zikoke gun panfaj kuptedad jaz. Ehago pegfiguw ruzsad ku hahfuup ho afo aveiwepa lejpatiko ze puhsudom hisobur dodwukvag. Zubo mulatrep benhovkuj ireru ompuhi cuzo duiritap be dunla acufe pihviza cezi nucueco fiholja secuob vicoz mijgufow. Nudwe komudo cas na ro fuhifi tumuh wuuvu nebetid pulreot milo fu fecdedu efbejze bibdu. Ekota mobzez juidjul fev tiojgip coune fiwwew beohokuk zol viwal su notirtoj."
+  },
+  "apiKey": "2049a61e19b95a29054cb08a06f7f32df9b1998dc0b594a6b4e699c0026d58c7",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
