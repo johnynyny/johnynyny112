@@ -1,0 +1,26 @@
+{
+  "name": "Austin Christensen",
+  "age": 58,
+  "address": {
+    "street": "Awri View",
+    "city": "Feelte",
+    "state": "PA",
+    "zip": "07877"
+  },
+  "contact": {
+    "phone": "(837) 684-7488",
+    "servicePhone": "800839165"
+  },
+  "birthday": "1982-05-11T04:45:14.914Z",
+  "ip": "70.196.57.85",
+  "foo": "bar",
+  "profile": {
+    "about": "Wuburag to lehvo vatimuwis al venin fum jat fuvkav tu lopwuru be eladezuz do ci. Irihebec nizvol ejve ewfe lite dediju at newheppeb mid tobzadcom nobutal zurdubvo ca rifit miiwjo. Akjemva ujuri are izta noizufa jucmamne zawko jigoj cedces ganukib jicunu rimje epnobok nehi.",
+    "bio": "Ubedigze gup naon wo femkenmes borazaj villebuj zi fu nuro wu fezcinra fujbedkov vi ihcaav ma bazo. Ar tazca ovvib libsap ettovmi dis minsudje gif at teffu fewfa netzum. Iwu fe su cupgu juvloji odewotfob ukajo ajojelec umi nusezni begos noot iwgutzu joiw. Tazeip vi je hu abo oznuzac ep sodufup lorvol gi bi pozunva wivicez si boipi wi. Weazaro ruw hefaha vawja poup ohoteri ugeizame tek nah ca miakutur uc. Maroku dutsi kus kies mubgow ecrumni tov fuj de cucaf rib ge pihdoti jifiw. Ewumi riz didoc sibgum de few cotbu li nif rahu fobpunjel apzig ibiseipi edvi uwodo som."
+  },
+  "apiKey": "f8a8e75c64a3d8a9d4d52dc7798272605f324374e046a2d6c2c42ab191a3c7f3",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
