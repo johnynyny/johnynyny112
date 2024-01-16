@@ -1,0 +1,26 @@
+{
+  "name": "Amanda Copeland",
+  "age": 44,
+  "address": {
+    "street": "Evihe Way",
+    "city": "Nikiwra",
+    "state": "OR",
+    "zip": "16215"
+  },
+  "contact": {
+    "phone": "(922) 499-6137",
+    "servicePhone": "800457437"
+  },
+  "birthday": "1971-11-18T10:16:36.805Z",
+  "ip": "249.224.196.253",
+  "foo": "bar",
+  "profile": {
+    "about": "Heni bat ucosu mitjascek zu jar me dedjizos zohvom hi forve etnu nenudol nas heta ef kefnoj ves. Lebiehe porwu ke coj ev mofakhe be sep ze ifojiwci leba nupco aseizi. Fak lobomma zaweocu umgacci jirecu olna tagadoj diwevu zepu osda pa rutabil. Goh rib dedcik bejeri gegtovvo acta he lowojir lafudoc ko fu umonafrab egif tuznas zicme regew.",
+    "bio": "Mizahhe nebcun ipohdi lecadel gupa vaime rigjafpul gur ridba kagjaus nal ebepoh zaopju do. Isu vil cakhi uztap naziigo utceowo ivbubmum cah os ta dokvuvige senut. Ufosu av onu kuliw ve uvi zeb co hogcifi itipji ec fe noma kipzafig hulsego."
+  },
+  "apiKey": "9048bb905cfa42a6e4d0d96c7fc69c5457f2420563e885f453b29c6615f8ca89",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
