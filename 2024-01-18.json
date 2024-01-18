@@ -1,0 +1,26 @@
+{
+  "name": "Roger Miller",
+  "age": 62,
+  "address": {
+    "street": "Gekki Point",
+    "city": "Kanleva",
+    "state": "FL",
+    "zip": "22279"
+  },
+  "contact": {
+    "phone": "(487) 595-5172",
+    "servicePhone": "800772227"
+  },
+  "birthday": "1974-03-25T08:08:34.393Z",
+  "ip": "23.203.6.68",
+  "foo": "bar",
+  "profile": {
+    "about": "Sat zezser ze uvwav povu piuc hudjuc ce cebu dele nomsu iwiwes loli. Sod lebjeva gumbifkid uka uruzukut ucekomamu tolol ta nulrufuha zejresaj dactiglib pitwevdeb hioji zu avrilav. Nokbul do pevi zoop kocem ilfob uzagiscir cevec fimonu regzo iv lirulpa idgaf unazotun canetic absebuk.",
+    "bio": "Fuswotsad ez ma gimin rasheb asowanha cisa urioziuta bos mezdoaj kam nuaf kulif ru bovwuk. Ujcoc guwuptoc si korgono gotetape lunof bi loguh cisbuvni evuakela doodti wuecufu avca oweelo ucku. Efhonew ewube erda goguod rumara zud kuw catla la mezpi velcela hapini nakeco."
+  },
+  "apiKey": "cc19ad02ab9a2b625062a07356b91d32f7eb9d98609dd8e25d96befa6d211984",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
