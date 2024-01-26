@@ -1,0 +1,26 @@
+{
+  "name": "Brian Fox",
+  "age": 49,
+  "address": {
+    "street": "Ereju Highway",
+    "city": "Luzewfez",
+    "state": "VT",
+    "zip": "75322"
+  },
+  "contact": {
+    "phone": "(844) 991-3404",
+    "servicePhone": "800297949"
+  },
+  "birthday": "1970-07-15T22:43:36.063Z",
+  "ip": "15.179.189.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Comvorbo ka mortob sedfawu odi peuc karup zemregaj nodwaj beic cow rolbabmup lo ma olokipsa ifmoah. Si jirzawni ad puhotli zenigudac udejukelu ti di ucoef onuge pikub zal amipaedi. Zigvef dapibi ahe popa lobzubpu dajvegdup bet suptibul pujo rutes dil uvemud ped nu mida boun hid pinujof.",
+    "bio": "To lise wob kasovguh po okpisar az ifgafar oprozic julbi muj he kibfijwej nodekhet fitdighu. De mal kocbi hogeli vocuruhi im upobo urmuhu rumomrar tovuw ofkah famolo. Su ecak ududobe lotfoz ejitisoc laraw bipoj jekik labe ecogim sofauci onzog fadmozver."
+  },
+  "apiKey": "54d04ada9ad74fcf414192673ec4b7efbf14fbefec188ecd8ae6a5c14a04894b",
+  "currency": {
+    "code": "WST",
+    "name": "Samoa Tala"
+  }
+}
