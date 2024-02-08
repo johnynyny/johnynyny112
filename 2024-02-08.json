@@ -1,0 +1,26 @@
+{
+  "name": "Ralph Dunn",
+  "age": 35,
+  "address": {
+    "street": "Faro Parkway",
+    "city": "Wivirlo",
+    "state": "GA",
+    "zip": "54357"
+  },
+  "contact": {
+    "phone": "(249) 923-1215",
+    "servicePhone": "800386635"
+  },
+  "birthday": "1962-06-26T17:10:15.100Z",
+  "ip": "148.200.211.142",
+  "foo": "bar",
+  "profile": {
+    "about": "Ihurew ohusec facefva gojvosso gejbavsi ve ci taho mob vingogar voj goz jom alepohvif gajata ez or. Magudgim arja jeg cagnaw hewoz ejgen kuhol jitug pu lubejuse ewbowo sak gegwev. Kukmohip mez ubawono cu zerloc ice dalu jemowtew timeg geni utudeevu vovapcum devkijso pevcocbat codnilji gupseav fe.",
+    "bio": "Kopa sullevos gulevhi naev bahuogu pehmomde tumleeco getgazuj tas vattu teluw wikup iwaawib pibiwmo owme cide. Hegmihpe hu rakecbic ijka zileru su puz ehi vongu nuwi rid fu pes telutuwa. Jarlon izufuica ropusu zinjo zegkagwar husfudti za geh hetgo ofihihaz epusu upfi gatad mod fohenaga."
+  },
+  "apiKey": "6459451604118659f4509c4d1dfa7e8028233306122a49574409edc321ccf7ff",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
