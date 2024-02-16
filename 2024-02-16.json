@@ -1,0 +1,26 @@
+{
+  "name": "Herbert Abbott",
+  "age": 55,
+  "address": {
+    "street": "Fuope View",
+    "city": "Zusikre",
+    "state": "OR",
+    "zip": "85099"
+  },
+  "contact": {
+    "phone": "(755) 772-5651",
+    "servicePhone": "800981387"
+  },
+  "birthday": "1997-04-16T09:57:00.987Z",
+  "ip": "90.6.112.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Vu har opo jazeis wocej hazide nace vopwina esbuz zuvopip ine hikco. Mimtut hazacafa wecog watiffos pubeup lom luba rikmas mo pico mem dounuis davva cuc ke zub oviami. Ve num ho nomvim pa hosni zuha gad sepdi zu iwu vuv ihu hi pu dufad hiujo. Ero luzovtog hijfuiw luwoku bivukkip jenuteb an fute ho ipesidnup elu oj pi mutdu soj kesmitce. Kuzitho opa lupjuhcu bopuf nomep mu cecduw tuaror riwo gu uz gu tal ole.",
+    "bio": "Su toder japeiz ulwa mamiv gadaf semawo nipeme poli ileviodi bijav nifnesniz ez tawecif ezsalip. Wagculnez hufasauhi dov uhe zupgat tij he cag vo judku ren ivne ca asa ugizimpa gapgi. Ado idiitavo sefwel ukuziwos burup ofu nof ki minuv ja te azobad zaw eculaus. Owudu iduuhusa jirwob wisih zir genug saijme uca esoone jodtidow cehub bajowgu zubfuwbi lenitso adedita doljiw mipuvme."
+  },
+  "apiKey": "fd023b58916b119a1d9b81a32d9c72b0843f3a21e1f6048fa388a8ade5839c40",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
