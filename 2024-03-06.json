@@ -1,0 +1,26 @@
+{
+  "name": "Ernest Adams",
+  "age": 52,
+  "address": {
+    "street": "Kehhel Path",
+    "city": "Ripisa",
+    "state": "MD",
+    "zip": "63233"
+  },
+  "contact": {
+    "phone": "(318) 677-8655",
+    "servicePhone": "800342711"
+  },
+  "birthday": "1976-08-12T07:39:42.084Z",
+  "ip": "173.188.140.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Be muuraho sid fudoppe cepgoweci te ne kappi ivevoem fapcewep ruke fupafi da mivi wiez holsepaz le. Wincobkis norpuz kujejlaw buco nulufopo dufi jir bu gownud disdo kovpu odmupif siuti inbe egaja. Pe zemfokhis fojipfo zuz ibuwa jibgine fiv co licsuwef gorel tolijup seva novaj wa rolsobju. Cip ver tudoh wakmonus tat wuzub hohez utrepir ceubheb vikop uvari depab luhfu hu bu fena tezvin sunuv. Voavona ho po tecec widmuwuz cugidga di mahupij suuju uvuju padi ocemawre kozat eskom lupogi. Ufehuhdib daisu uvhu lizikaomo cenoora basizier tisekki ojizawa ob jupvubof bep vuzocluc jedgo.",
+    "bio": "Bafapim dul mulnab ce zecazo akkimemu kiket bazu sevlovvoh hovu le fef hom rapuv teidifu capo wu. Gebijok naj guif nurdasep acube gubgokuco vapja jahhav kuj sinika wapeh hajhulrag laedtuc zin. Muzu gunul nemoj gor acuzi ame tiwrolho cumafu tih higavpid voljik upzi tejkid hic."
+  },
+  "apiKey": "35c816da0f01dc076fb562fd09f33484ed238734ba555ddf44c3b22c0903b031",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
