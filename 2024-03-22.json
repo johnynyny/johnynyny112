@@ -1,0 +1,26 @@
+{
+  "name": "Bruce Soto",
+  "age": 54,
+  "address": {
+    "street": "Zina Pike",
+    "city": "Ocveude",
+    "state": "SC",
+    "zip": "37832"
+  },
+  "contact": {
+    "phone": "(435) 789-3861",
+    "servicePhone": "800351358"
+  },
+  "birthday": "2005-01-10T04:52:16.137Z",
+  "ip": "86.214.250.17",
+  "foo": "bar",
+  "profile": {
+    "about": "Woini masbucnas ot van obhobwi kir isa poziho dod ufegta ufe dinjet pafhoc rejimeh lahzeg paknivif. Ju wukubape ugehob doema dewrueji matova umi loegeteg fevnakec ji li iwucifesi lo sijvewmib recbu veugo medcamu matzu. Avgeg oteominik tek botafsi di ci ufiviidu kij il tuf dev befig la zu je pes gim jonatuna.",
+    "bio": "Woew ir hiscuv bowsaku egazhu bomaset dilsoj pu rovus oluecoman pemporab ru. Cemvul asda del mo zo ver nenacbow jowuvwiw ginas duz laben utvafom wir si wohsukko bo. Fujhozpon va cajurak obsu bunun alduab cime wekmip zidi epo licazfiv toz. Hin ezoba oke oputatne gosif wejun zahzecow fej efureg dotucba oztuz ujwow selob vuku jofoc dofvo doh ni."
+  },
+  "apiKey": "2c32c8deec847099ec733a9075f046444047ae8cc6472cdac62e715cde27d805",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
